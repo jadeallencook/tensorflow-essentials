@@ -1,29 +1,25 @@
-# TensorFlow Essentials
-
-## Setting Up Python 3.11 on macOS for TensorFlow Installation
+# Setting Up Python 3.11 on macOS for TensorFlow Installation
 
 This guide is specifically designed for macOS users to set up Python 3.11 for TensorFlow installation. While some instructions may be applicable to other operating systems, they are primarily intended for macOS.
 
-### Verify Python Installation
+## Verify Python Installation
 
 1. **Check Existing Python Version**:
    - Open the Terminal.
    - Run `python --version` or `python3 --version`.
    - If a version number appears and it's between 3.9 and 3.11, you're set. Otherwise, follow the installation steps below.
 
-### Install Python (if necessary)
+## Install Python (if necessary)
 
 1. **Download Python**:
    - If Python is not installed or not within the required version range (3.9–3.11), download it from [Python Downloads](https://www.python.org/downloads/).
 
-## Installing Python 3.11
-
-### Install Homebrew
+### Install Homebrew (if necessary)
 
 1. **Check Homebrew Installation**:
    - Homebrew is essential for installing Python 3.11. To install or verify Homebrew, visit [Homebrew's website](https://brew.sh).
 
-### Use pyenv for Python Installation
+## Use pyenv for Python Installation
 
 1. **Update and Install pyenv**:
 
@@ -51,7 +47,7 @@ This guide is specifically designed for macOS users to set up Python 3.11 for Te
    - Restart your Terminal.
    - Confirm the installation with `python3 --version`.
 
-## Installing pip
+## Installing pip (if necessary)
 
 1. **Check pip Installation**:
 
