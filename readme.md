@@ -2,6 +2,12 @@
 
 This guide is specifically designed for macOS users to set up Python 3.11 for TensorFlow installation. While some instructions may be applicable to other operating systems, they are primarily intended for macOS.
 
+---
+**NOTE**
+TODO: add a section about the basics of how ML works
+## Machine Learning Basic Concepts
+---
+
 ## Verify Python Installation
 
 1. **Check Existing Python Version**:
