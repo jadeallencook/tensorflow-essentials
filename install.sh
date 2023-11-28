@@ -54,3 +54,6 @@ if [ -z "$(pip list | grep tensorflow)" ]; then
     pip install tensorflow
     echo "Tensorflow installed successfully."
 fi
+
+# display success message
+echo "Installation complete."
